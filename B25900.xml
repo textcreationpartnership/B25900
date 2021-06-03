@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a member of the House of Commons in answer to a book entituled A letter to the Catholicks of England, Ireland, Scotland, and all other his Majesties, &amp;c. / written by a lover of his country.</title>
+            <author>Lover of his country.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25900</idno><idno type="EEBO-CITATION">27399307</idno>
+  <idno type="VID">205740</idno>
+  <idno type="EEBO-PROQUEST">2240897444</idno>
+  
+            <idno type="STC">Wing L1686B</idno>
+            <idno type="OCLC">27399307</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205740)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a member of the House of Commons in answer to a book entituled A letter to the Catholicks of England, Ireland, Scotland, and all other his Majesties, &amp;c. / written by a lover of his country.</title>
+                  <author>Lover of his country.</author>
+                  <author>Philanax.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>printed, 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 6: Philanax.</note>
+                  <note>Imperfect: t.p. torn, with loss of imprint. Imprint information supplied by Wing.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Walsh, Peter, 1618?-1688. --  Letter to the Catholicks of England, Ireland, Scotland.</term>
+               <term type="uniform_title">Letter to the Catholicks of England, Ireland, Scotland.</term>
+               <term type="topical_term">Anti-Catholicism --  England.</term>
+               <term type="topical_term">Catholics --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205740:1"/>
+            <p>A LETTER TO A MEMBER OF THE House of COMMONS, In Answer to a Book Entituled A LETTER to the Catholicks of <hi>England, Ireland, Scotland,</hi> and all other His Majesties, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Written by a lover of his Country.</hi>
+            </p>
+            <q>
+               <bibl>Aeneid. lib. 2.</bibl>
+               <l>—<hi>ulla putatis</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Danaum?—</l>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:205740:2"/>
+            <head>A LETTER, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MEeting the other day with Father <hi>Walsh</hi> his Dedicatory Address of a large, and, I sup<g ref="char:EOLhyphen"/>pose, an Elaborate Book, in which he hath set forth all the Encroachments of the Popes, succes<g ref="char:EOLhyphen"/>sively in a manner from <hi>Hildebrand,</hi> upon the Mo<g ref="char:EOLhyphen"/>narchs of <hi>Christendome,</hi> together with a short Narra<g ref="char:EOLhyphen"/>tive of all the <hi>Irish,</hi> and <hi>English</hi> Treasonable, as well as Unfortunate Practises, about setting up the <hi>Papal</hi> Power, from <hi>Henry</hi> the Eighth's time until the last Rebellion of <hi>Ireland:</hi> Together with an account of the Oath, by printing the Oath it self (a thing I must confess I am beholden to him for) which, he saies, is the <hi>strictest that could be sworn or penn'd, especially,</hi>
+               <note place="margin">
+                  <hi>P. 54.</hi> Which Oath all their Re<g ref="char:EOLhyphen"/>verend Lord<g ref="char:EOLhyphen"/>ships of that Communion on course take. P. <hi>16. and so on to</hi> p. <hi>23.</hi> Aestimant Pa<g ref="char:EOLhyphen"/>pam esse unum Deum qui ha<g ref="char:EOLhyphen"/>bet potestatem omnem in coelo &amp; terrâ. <hi>Joh. Gers.</hi>
+               </note>
+               <hi>being the Pope himself is the onely Interpreter thereof;</hi> As likewise an account of the grand Positions of <hi>Popery,</hi> which are such as must render the Abettors to be a sort of <hi>Bigots,</hi> like the Zealous at last amongst the <hi>Jews,</hi> not fit to be Members of any <hi>Humane,</hi> much less <hi>Chri<g ref="char:EOLhyphen"/>stian</hi> Society: for he brings it amongst the rest of the <hi>Positions,</hi> that the <hi>Pope</hi> is <hi>Dominus Deus Noster,</hi> Our Lord God, and so stiled by the <hi>Glossatour</hi> of his own <hi>Canon</hi> Law, with many incongruities of theirs (that is, of them that are given up to the <hi>Pope</hi>) to all ends of Civil Government, which Positions he has divided into Eighteen Paragraphs, too many to particularize. Which labour of his seems to be popular enough at this time. For in making the Popes wicked, he hath far o'redone <hi>John Fox</hi> himself, nay the Zeal of the Rabble, on a <hi>Gun-powder</hi> day, may pass for Devotion compara<g ref="char:EOLhyphen"/>tively to his descriptions. And which is more, after this specious <hi>preamble</hi> he concludes as plausibly as he begun; for he directs the Catholics (by which, I suppose, he means them we call <hi>Papists</hi>) to address without any pro<g ref="char:EOLhyphen"/>crastination to his <hi>Majesty,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 103.</note> and Both Houses of <hi>Par<g ref="char:EOLhyphen"/>liament so, as shall convince all</hi> Protestants <hi>whatsoever,
+<pb n="2" facs="tcp:205740:3"/> that they have at last, ingenuously bid an eternal Adieu to all those new Positions,</hi> which, <hi>not disown'd, might continue th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir jealousie of them;</hi> by which means, the Gentleman hopes to see the <hi>Penal Laws first repealed, and then im<g ref="char:EOLhyphen"/>mediately the great work of Reconciliation.</hi>
+               <note place="margin">
+                  <hi>P.</hi> 104. and to this end <hi>p.</hi> 94.</note> This I conceive is the great scope, and design, of his <hi>three or four years</hi> contrivement.</p>
+            <p>Now give me leave, <hi>Noble Sir,</hi> according to my wonted freedome, to give you an account of my Ani<g ref="char:EOLhyphen"/>madversions upon the <hi>Premisses.</hi>
+            </p>
+            <p>The Devil as cunning as he is, they say, can never disguise himself so, but he shall be discovered by his Cloven foot, or some other little <hi>Criterion;</hi> so the Father discovers, in his very Title Page, more of the old <hi>leaven</hi> than is fit at this time for his design, or suits with the Sugar-Candy words, in the fourth Appen<g ref="char:EOLhyphen"/>dage, <hi>p.</hi> 83. of <hi>breaking down the wall of Partition,</hi> &amp;c. By the direction of his Letter to the <hi>Catholicks</hi> of <hi>England, Ireland,</hi> &amp;c. All men will grant, I suppose, that by <hi>Catholicks,</hi> he means onely Christians of the <hi>Roman</hi> perswasion, otherwaies his labours had as little design, as they deserve success. That being then so; he very charitably takes it for granted, That the Church of <hi>England,</hi> from whose Sons he hopes such great favours, is no part of the <hi>Catholick Church</hi> and so not much better than Heathens; otherwise he would not have treated the Papists there by the name of <hi>Catholicks,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 73.</note> when in other places he can call them <hi>Roman Catholicks.</hi> The latter Title being as much void of common sense, under that great Man's correction, as the former is of Christian charity.</p>
+            <p>Having now done with the Title Page, I beg your pardon a little to say something of the Gentleman, and his great and healing design. Good man, he was persecuted a long time by the Pope with <hi>Censures, Precepts,</hi>
+               <note place="margin">
+                  <hi>P.</hi> 74.</note>
+               <hi>Monitories, Denunciations, Affixions, Decrees,</hi> and what not, for <hi>meer Loyalty,</hi> he mist his prefer<g ref="char:EOLhyphen"/>ment,<note place="margin">
+                  <hi>P.</hi> 68.</note> was imprisoned in a <hi>Forreign</hi> Country, as far as <hi>Spain,</hi> upon some such <hi>account</hi> as he inti<g ref="char:EOLhyphen"/>mates. To all which I only say, That <hi>Zopirus</hi> was worse used by <hi>Darius</hi> his Master; you know what followed, the <hi>Babylonians</hi> trusted him upon that
+<pb n="3" facs="tcp:205740:3"/> account, and he betray'd them; for <hi>Darius</hi> and he understood one another all the while, as 'tis possibly others may do. I'le only ask the Good man this Que<g ref="char:EOLhyphen"/>stion, What was he in Prison in <hi>Spain</hi> for? It must be either for ill Manners, or Religion: For the for<g ref="char:EOLhyphen"/>mer I am sure hee'l not own, and none e're came out for the latter, without the powerful solicitation of some Embassadour, which I do not hear he stood in need of; but there can be no counterfeit in this, He has been so long in persecution, as he saies, has wrote a Book of three or four years study; and yet that all this may be practic'd 'tis very possible, if you consider that the third and last opportunity of red integration was lost 1666,<note place="margin">
+                  <hi>P.</hi> 80.</note> by not signing the loyal <hi>Remonstrance</hi> or <hi>Formulary,</hi> at <hi>Dublin,</hi> as he saies, which may be was neglected or slighted out of either the fore-sight, or accident of the fatal fire in <hi>London,</hi> immediately suc<g ref="char:EOLhyphen"/>ceeding the most terrible Pestilence that ever was: so this famous City lying, with the Nation, under those terrible Judgments, of <hi>Fire, War,</hi> and <hi>Pestilence,</hi> that Party might then morally hope there would never be opportunity of putting any strict <hi>Test</hi> upon them, considering the supposed ruine of this City, and the <hi>potency</hi> of the Enemy, the <hi>Dutch,</hi> and <hi>French</hi> being Leagu'd in a War against us, which they expected more from a great deal than hapned, and possibly soon after that time our Author might go about the large Book the <hi>Stationer</hi> talks on, knowing that if the projects fail'd, which by some were then design'd, as thanks be to God, and the Industry of you, and your Fellow Members, they have almost to miracle; then his Address, as the last effort, might do their business as well as if they had bin white Boyes all along, and by his fine <hi>Harangue,</hi> stuft now and then with mis<g ref="char:EOLhyphen"/>apply'd Scripture, and some passionate Adjurations to his Country-men, <hi>by all civil and religious Tyes,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 94.</note> to sub<g ref="char:EOLhyphen"/>mit to his <hi>Formular,</hi> or Recognition, by that means to endear the <hi>Parliament</hi> to break down the <hi>partition wall,</hi> as he calls it, by letting them into immunities, which they at present are destitute of. But <hi>Sir,</hi> remember you have heard of one Squire <hi>Sinon,</hi> a crafty Knave, who made as many pious pretences to King <hi>Priam,</hi> to break
+<pb n="4" facs="tcp:205740:4"/> down the Wall to let in the <hi>Trojan</hi> Horse, and then you know what followed. Another Argument that all may be practice, is this: Why does not he, seeing the Pope is so naughty a man, and all have in a manner been so, since <hi>Hildebrand,</hi> as he intimates often in his Book, reconcile himself to our Church by renouncing his Order, and other fopperies, founded solely upon the Popes Authority, without any ground in Scri<g ref="char:EOLhyphen"/>pture, or Four first General Councels; as, <hi>praying to Saints, Purgatory, Transubstantiation, Communion</hi> in one kind, and the like? For certainly no man that is sa<g ref="char:EOLhyphen"/>tisfied of the Popes fallibility <hi>in definitions of Faith,</hi> as he saies he is, can forbear to give himself that satis<g ref="char:EOLhyphen"/>faction as to conform to the dictates of right reason. Another Argument he proposes, and that he thinks a strong one, <hi>That,</hi> conditionally, <hi>the Laws may be taken off so,</hi>
+               <note place="margin">
+                  <hi>P.</hi> 79.</note>
+               <hi>as they,</hi> viz. the <hi>Priests, might live in their native Country,</hi> and so by degrees serve themselves and their Friends into all preferments, <hi>above five hundred</hi> English <hi>Priests,</hi> besides <hi>more of</hi> Irish, <hi>should declare by a Publick Instrument under their hands, as amply, and as clearly against all the new Doctrines, and all vain Pretences of</hi> Rome, <hi>as he has done, and shall be ready to renew that assurance as oft as shall be required.</hi> In Answer to this, I'le remind you of a Story: A <hi>Scotch</hi> Lord, and an <hi>English</hi> Gentle<g ref="char:EOLhyphen"/>man, were contending about the bigness of a <hi>Park;</hi> the <hi>Lord</hi> said that he had a <hi>Park</hi> had five hundred <hi>Dear</hi> of <hi>Antler</hi> in it; the <hi>Gentleman</hi> made a kind of wonder at it: <hi>Sbread,</hi> quoth the <hi>Scot, do you not believe me? Yes,</hi> saies the <hi>English</hi> man, <hi>but my wonder arises to think what a world of</hi> Raskals <hi>there must be.</hi> The story applies it self: For if we have so many well principled <hi>Priests,</hi> there are sholes of the rest; and can you forbear, <hi>Noble Sir,</hi> to be instrumental in performing this good Man's re<g ref="char:EOLhyphen"/>quest, seeing he promises you such plenty of excellent Company. I remember a passage in a certain <hi>French Authour,</hi> which is called the <hi>Conversation,</hi> not much a<g ref="char:EOLhyphen"/>miss to this purpose: A <hi>Mareschal</hi> of <hi>France</hi> invited a certain Friend to dinner, to maintain Discourse a<g ref="char:EOLhyphen"/>gainst half a dozen Scholers; <hi>Who certainly,</hi> saies he, <hi>are passable Company if they understood Common sense.</hi> Examine all his Arguments at leasure, and you will
+<pb n="5" facs="tcp:205740:4"/> find that they are grounded upon a <hi>self-end,</hi> or <hi>worldly-account</hi> as well as <hi>Religious;</hi> for he <hi>conjures</hi> them, <hi>viz. the Papists, by all the designs they have of their own,</hi>
+               <note place="margin">
+                  <hi>P.</hi> 94.</note>
+               <hi>and their Posterities living comfortably in this world,</hi> to make this Recognition,<note place="margin">
+                  <hi>P.</hi> 95.</note> thereby to take away that <hi>grand Rock of Scandal</hi> (meaning their constant Rebellion) that there<g ref="char:EOLhyphen"/>by they may have the better opportunity, I suppose, to bring us into their <hi>Communion;</hi> that is, to invade all that we count dear to us, our <hi>Religion</hi> and <hi>Property:</hi> the latter being as inconsistent with Popery, as our Bodies are with <hi>everlasting burnings.</hi> In answer, I'le give you some Politicks from <hi>self-love</hi> too: You may remember who, in a manner, engrost all the prefer<g ref="char:EOLhyphen"/>ments before this late <hi>Test,</hi> and what impossibility is there, that they shall not again, if you take away the wall of Partition: that Party being like the <hi>Children of this world, wiser in their generation</hi> than others; <hi>viz.</hi> industrious in preserving, and preferring one another, whereas others do not so much regard such carnal practices perhaps.</p>
+            <p>I must confess they have one Argument which I wonder is not made use of, though he does of many weaker: That the <hi>English</hi> Papists were generally for the King, not any one Arming against him, and this so true that <hi>Malice</hi> it self cannot object against it; but yet withal, you cannot but remember, that they were beaten into the Kings Garrisons, to preserve them<g ref="char:EOLhyphen"/>selves from the Rabble; but they were so frighted with the terrour, and noise of War, that they would never be got into any thing like it again, for if any body can make out, that there were <hi>three</hi> ingaged in any plot for this Kings Service: you may safely, I think, grant their desires, whereas the restless <hi>endeavours,</hi> and <hi>constant</hi> struglings against the Government, by the Sons of our Church, <hi>tired out the Ʋsurpations,</hi>
+               <note place="margin">L. K. Sp. <hi>p. 19.</hi>
+               </note> as a great Person hath candidly observed, and therefore they are the fittest Objects of Yours, and the Kingdoms kindness, or marks of favour.</p>
+            <p>One thing I had like to have omitted, very well worth taking notice of, though the Father be so particular in giving a List of all the <hi>Popish</hi> Treasons all <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g, as if they had been an Inventory of Goods to
+<pb facs="tcp:205740:5"/> be priz'd, yet he omits Father <hi>Watsons:</hi> This <hi>Watson</hi> you must know was a <hi>healing</hi> man like himself, wrote against the <hi>Jesuites,</hi> and what not; yet upon King <hi>James</hi>'s coming into <hi>England,</hi> for want of a little skill in Law<note n="†" place="margin">He plead <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n his Tryal that the King was not C <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn'd, and some Treason: but that Max<g ref="char:EOLhyphen"/>ime of the Kings never dying, took him off.</note>, as well <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Obedience to his Majesty, fell into a Conspiracy, and was hang'd, drawn, and quarter'd at <hi>Winchester;</hi> which shews they cannot forbear that old trade of <hi>Trencher</hi> making, but like <hi>Cats</hi> upon op<g ref="char:EOLhyphen"/>portunity will be <hi>Cats</hi> still.</p>
+            <p>One observation of his I cannot omit, speaking of the Penal Statutes: <hi>Do not we perceive,</hi> saies he, <hi>that they are with-held at present from execution, by a very small and weak thred, not only of one life that is mortal, but even of one will alone, that yet may be altered of a sudden upon many occasions,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 11.</note>
+               <hi>which may happen when least expected?</hi> But I hope you have so much Logick amongst you, to make the <hi>Argumentative</hi> to serve our Religion by stricter Laws, as he does to induce the <hi>Papists</hi> to make a hollow Re<g ref="char:EOLhyphen"/>cognition.</p>
+            <p>One thing more I have to hint to you. The most extravagant Princes that ever sway'd this Scep<g ref="char:EOLhyphen"/>ter, nay <hi>Henry</hi> the Eighth himself, whose Will like a torrent bore down all before it, never upon State account, entrencht so far upon <hi>Magna Charta,</hi> as to force Confessions by Torture: yet, and even after the Popes Supremacy was abrogated, the Rack was used in order to the extorting of Confession about Religion, by the zealous assertours, of the six Articles to a per<g ref="char:EOLhyphen"/>son of Quality,<note place="margin">Mr. <hi>Kyme,</hi> af<g ref="char:EOLhyphen"/>ter the Pope's restoring <hi>Cut<g ref="char:EOLhyphen"/>bert, Symson,</hi> and others.</note> the Lord Chancellour <hi>Wriothesley,</hi> and Sir <hi>John Baker,</hi> playing the Torturers themselves, so dangerous is that Religion, by whomsoever managed to our Laws and Liberties.</p>
+            <p>Now in Conclusion of all, you after Thirteen years sitting, and Loyally, as became you, asserting our Laws, both as to Religion, and Property, which is all our concerns in this world: You, <hi>Noble Sir,</hi> after all this will not, I hope, be whedled out of all by an <hi>Irish</hi> Priest, and this is the earnest desire of,</p>
+            <closer>
+               <signed>Your humble Servant, <hi>PHILANAX.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
